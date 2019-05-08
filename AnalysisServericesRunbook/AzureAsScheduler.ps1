@@ -1,6 +1,6 @@
 param(     
-    [string] $resourceGroupName = "otto resourece group name", #to be changed
-    [string] $serverName = "otto server name ", # to be changed
+    [string] $resourceGroupName = "resourece group name", #to be changed
+    [string] $serverName = "server name ", # to be changed
     [string] $azureProfilePath  = "",
     [string] $azureRunAsConnectionName = "",
     [string] $configStr = "
